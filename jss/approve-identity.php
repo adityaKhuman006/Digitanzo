@@ -19,8 +19,8 @@ status
 </head>
 <style>
     .sub-div img {
-        max-height: 260px;
-        max-width: 411px;
+        max-height: 100px;
+        max-width: 100px;
     }
     .tab-nav{
         padding: 10px 40px;
@@ -52,11 +52,11 @@ status
                         <div class="row justify-content-around">
                             <div class="col-5 sub-div shadow-sm rounded-lg p-2 d-flex flex-column justify-content-center align-items-center">
                                 <span class="m-2">Image 1</span>
-                                <img src="identitys/<?php echo $identity['img1'] ?>" class="img-fluid" alt="image 1">
+                                <a href="identitys/<?php echo $identity['img1'] ?>" target=”_blank”> <img src="identitys/<?php echo $identity['img1'] ?>" class="img-fluid" alt="image 1"></a>
                             </div>
                             <div class="col-5 sub-div shadow-sm rounded-lg p-2 d-flex flex-column justify-content-center align-items-center">
                                 <span class="m-2">Image 2</span>
-                                <img src="identitys/<?php echo $identity['img2'] ?>" class="img-fluid" alt="image 2">
+                                <a href="identitys/<?php echo $identity['img2'] ?>" target=”_blank”><img src="identitys/<?php echo $identity['img2'] ?>" class="img-fluid" alt="image 2"></a>
                             </div>
                         </div>
                         <div class="d-flex justify-content-center align-items-center p-4">
@@ -83,11 +83,11 @@ status
                         <div class="row justify-content-around">
                             <div class="col-5 sub-div shadow-sm rounded-lg p-2 d-flex flex-column justify-content-center align-items-center">
                                 <span class="m-2">Image 1</span>
-                                <img src="identitys/<?php echo $identity['img1'] ?>" class="img-fluid" alt="image 1">
+                                <a href="identitys/<?php echo $identity['img1'] ?>" target=”_blank”><img src="identitys/<?php echo $identity['img1'] ?>" class="img-fluid" alt="image 1"></a>
                             </div>
                             <div class="col-5 sub-div shadow-sm rounded-lg p-2 d-flex flex-column justify-content-center align-items-center">
                                 <span class="m-2">Image 2</span>
-                                <img src="identitys/<?php echo $identity['img2'] ?>" class="img-fluid" alt="image 2">
+                                <a href="identitys/<?php echo $identity['img2'] ?>" target=”_blank”> <img src="identitys/<?php echo $identity['img2'] ?>" class="img-fluid" alt="image 2"></a>
                             </div>
                         </div>
                         <div class="d-flex justify-content-center align-items-center p-4">
@@ -111,11 +111,11 @@ status
                         <div class="row justify-content-around">
                             <div class="col-5 sub-div shadow-sm rounded-lg p-2 d-flex flex-column justify-content-center align-items-center">
                                 <span class="m-2">Image 1</span>
-                                <img src="identitys/<?php echo $identity['img1'] ?>" class="img-fluid" alt="image 1">
+                                <a href="identitys/<?php echo $identity['img1'] ?>" target=”_blank”><img src="identitys/<?php echo $identity['img1'] ?>" class="img-fluid" alt="image 1"></a>
                             </div>
                             <div class="col-5 sub-div shadow-sm rounded-lg p-2 d-flex flex-column justify-content-center align-items-center">
                                 <span class="m-2">Image 2</span>
-                                <img src="identitys/<?php echo $identity['img2'] ?>" class="img-fluid" alt="image 2">
+                                <a href="identitys/<?php echo $identity['img2'] ?>" target=”_blank”> <img src="identitys/<?php echo $identity['img2'] ?>" class="img-fluid" alt="image 2"></a>
                             </div>
                         </div>
                         <div class="d-flex justify-content-center align-items-center p-4">
