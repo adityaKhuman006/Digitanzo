@@ -332,7 +332,7 @@ include('common/sidebar.php'); ?>
                                             $prices = getOriginalGoldPrice($price_24k, 'USD', 'USD,LKR,INR,GBP');
                                             ?>
                                             <label>Original Gold Price</label>
-                                            <input class="form-control user-balance" type="text" disabled value="<?= format_amount($prices) ?>"/>
+                                            <input class="form-control user-balance" type="text" disabled value="<?= format_amount($prices['LKR']) ?>"/>
                                         </div>
                                     </div>
                                 </div>
@@ -390,6 +390,7 @@ include('common/sidebar.php'); ?>
         <!-- /.col -->
         <!-- /.row -->
     </section>
+    <?php include('common/footer.php'); ?>
 
     <!-- Modal -->
 

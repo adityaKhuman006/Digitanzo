@@ -449,4 +449,5 @@ $checkUserIdentityFetch = mysqli_fetch_assoc($checkUserIdentityResult);
     </div>
 </div>
 </div>
+<?php include('common/footer.php'); ?>
 </body>

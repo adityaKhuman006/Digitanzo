@@ -1,8 +1,10 @@
 <?php
-$currentpage = "transfer-balance";
-include "common/header.php";
-include('common/sidebar.php');
+$currentpage="transfer-balance";
+include "common/header.php";?>
+<?php include('common/sidebar.php'); ?>
+<?php
 include "common/config.php";
+
 $userId = $_SESSION['userid'];
 $sel_rec_tem = "SELECT * FROM tb_user WHERE user_rec_id = '$userId'";
 $selquery = mysqli_query($db, $sel_rec_tem);
@@ -437,6 +439,8 @@ $row = mysqli_fetch_assoc($selquery);
             </div>
         </div>
     </div>
+    <?php include('common/footer.php'); ?>
+
     <script>
 
       $(document).ready(function () {
