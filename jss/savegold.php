@@ -112,6 +112,26 @@ $wdrqno = mysqli_num_rows($wres);
                         </div>
                     </div>
                 </div>
+                <div class="card">
+                    <div class="card-body d-flex justify-content-between">
+                        <?php
+                        $price_24k = get_todays_price();
+                        $prices = getOriginalGoldPrice($price_24k, 'USD', 'USD,LKR,INR,GBP');
+                        ?>
+                        <div class="col-lg-3 d-flex align-items-stretch">
+                            <h4 id="h4"> LKR <span class="lkr-amount"><?= format_amount($prices['LKR']) ?><span>/g</h4>
+                        </div>
+                        <div class="col-lg-3 d-flex align-items-stretch">
+                            <h4 id="h4">USD <?= format_amount($prices['USD']) ?>/g</h4>
+                        </div>
+                        <div class="col-lg-3 d-flex align-items-stretch">
+                            <h4 id="h4">INR <?= format_amount($prices['INR']) ?>/g</h4>
+                        </div>
+                        <div class="col-lg-3 d-flex align-items-stretch">
+                            <h4 id="h4">GBP <?= format_amount($prices['GBP']) ?>/g</h4>
+                        </div>
+                    </div>
+                </div>
             </div>
     </div>
 

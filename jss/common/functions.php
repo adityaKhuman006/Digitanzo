@@ -159,6 +159,6 @@ if (!function_exists('getOriginalGoldPrice')) {
         foreach ($rates as $key => $value) {
             $rates_of_gold[$key] = ($gold_in_gram * $value) + $commission_config[$key]??0;
         }
-        return $rates_of_gold['LKR'];
+        return $rates_of_gold;
     }
 }
