@@ -1,0 +1,172 @@
+nav.main-header.navbar.navbar-expand.navbar-white.navbar-light {
+    background: #ffffff !important;
+	border: 2px solid #008080;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #800022 !important;
+    background: #d3578b;
+    margin-right: 20px;
+    border-radius: 5px;
+    
+}
+.info-box .info-box-number {
+    display: block;
+    font-weight: 400;
+    color: #868686;
+    font-size: 19px;
+	border: 5px solid #008080;
+}
+
+li.nav-item.d-none.d-sm-inline-block h2.mainm_title {
+    text-transform: capitalize;
+    color: #ffffff;
+    text-align: left;
+	
+}
+.col-12.col-sm-6.col-md-3.dropi1 span.info-box-icon.bg-info.elevation-1 {
+    background: #adc95b !important;
+    border-radius: 50%;
+    margin-right: 10px;
+	
+}
+.col-12.col-sm-6.col-md-3.dropi2 span.info-box-icon.bg-danger.elevation-1 {
+    background: #8dc1e6 !important;
+    border-radius: 50%;
+    margin-right: 10px;
+	
+}
+.col-12.col-sm-6.col-md-3.dropi3 span.info-box-icon.bg-success.elevation-1 {
+    background: #d68ce5 !important;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.col-12.col-sm-6.col-md-3.dropi4 span.info-box-icon.bg-warning.elevation-1 {
+    background: #e16367 !important;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.col-12.col-sm-6.col-md-3.dropi5 span.info-box-icon.bg-info.elevation-1 {
+    background: #f7a983 !important;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.col-12.col-sm-6.col-md-3.dropi6 span.info-box-icon.bg-danger.elevation-1 {
+    background: #d19465 !important;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.col-12.col-sm-6.col-md-3.dropi1 span.info-box-text {
+    color: #adc95b;
+    font-weight: 400 !important;
+}
+
+
+
+.col-12.col-sm-6.col-md-3.dropi2 span.info-box-text {
+    color: #8dc1e6;
+    font-weight: 400 !important;
+}
+
+.col-12.col-sm-6.col-md-3.dropi3 span.info-box-text {
+    color: #d48cde;
+    font-weight: 400 !important;
+}
+
+.col-12.col-sm-6.col-md-3.dropi4 span.info-box-text {
+    color: #df6469;
+    font-weight: 400 !important;
+}
+
+.col-12.col-sm-6.col-md-3.dropi5 span.info-box-text {
+    color: #fca683;
+    font-weight: 400 !important;
+}
+
+.col-12.col-sm-6.col-md-3.dropi6 span.info-box-text {
+    color: #d39461;
+    font-weight: 400 !important;
+}
+span.info-box-icon i.fas {
+    color: #fff !important;
+}
+footer.main-footer {
+    color: #3c90ea !important;
+}
+
+ul.futo {
+    display: flex;
+    padding: 0px 0px 0px 20px;
+    list-style: none;
+    font-size: 20px;
+}
+.content-wrapper {
+    background: #ffffff;
+}
+footer.main-footer ul.futo li.futolo {
+    margin: 0px 15px;
+}
+footer.main-footer ul.futo li.futolo.col3 {
+    background-color: #fe9b4a !important;
+    clear: both;
+    color: #fff;
+    padding: 2px 7px;
+    border-radius: 5px;
+}
+footer.main-footer ul.futo li.futolo.col2 {
+    background-color: #548ec0 !important;
+    clear: both;
+    color: #fff;
+    padding: 2px 12px;
+    border-radius: 5px;
+}
+footer.main-footer ul.futo li.futolo.col1 {
+    background-color: #a6d7f8 !important;
+    clear: both;
+    color: #fff;
+    padding: 2px 7px;
+    border-radius: 5px;
+}
+aside.main-sidebar.sidebar-dark-primary.elevation-4 {
+    background: #242424 !important;
+}
+ul.nav.nav-pills.nav-sidebar.flex-column li.nav-item.has-treeview a.nav-link.active {
+    border-radius: 0px !important;
+    background: #b8c51d !important;
+}
+ul.nav.nav-pills.nav-sidebar.flex-column li.nav-item.has-treeview a.nav-link {
+    font-size: 18px;
+    /* color: #c3c3c3 !important; */
+    font-weight: 400 !important;
+    /* padding: 10px 0px; */
+}
+
+footer.main-footer ul.futo li.futolo a {
+    color: #fff !important;
+}
+
+@media(max-width:475px)
+{
+    ul.futo {
+        display: block;
+        padding: 0px 0px 0px 0px;
+        list-style: none;
+        font-size: 20px;
+        margin: auto;
+        text-align: center;
+    }
+    footer.main-footer ul.futo li.futolo {
+        margin: 10px 15px;
+    }
+    footer.main-footer ul.futo li.futolo.col1 {
+      display: none;
+    }
+    footer.main-footer ul.futo li.futolo.col2 {
+        display: none;
+    }
+    footer.main-footer ul.futo li.futolo.col3 {
+        display: none;
+    }
+    
+
+}

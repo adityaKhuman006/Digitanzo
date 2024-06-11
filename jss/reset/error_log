@@ -1,0 +1,225 @@
+[12-Mar-2024 12:04:04 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/digitsar/public_html/digitanzo.lk/jss/reset/database.php on line 8
+[12-Mar-2024 12:06:40 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/digitsar/public_html/digitanzo.lk/jss/reset/database.php on line 8
+[12-Mar-2024 12:06:49 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/digitsar/public_html/digitanzo.lk/jss/reset/database.php on line 8
+[12-Mar-2024 12:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:11:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:13:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:16:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:17:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:18:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:19:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:19:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:24:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[12-Mar-2024 12:25:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[13-Mar-2024 11:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[13-Mar-2024 12:00:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[14-Mar-2024 03:52:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[14-Mar-2024 03:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[14-Mar-2024 04:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[14-Mar-2024 04:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[14-Mar-2024 04:11:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on int in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 18
+[14-Mar-2024 04:31:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user '	
+digitsar_theepanathan'@'localhost' (using password: YES) in /home/digitsar/public_html/digitanzo.lk/jss/reset/database.php on line 12
+[14-Mar-2024 04:32:26 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 04:32:26 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:03:12 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:03:12 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:05:13 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:05:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:07:36 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:07:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:08:47 UTC] PHP Parse error:  Invalid body indentation level (expecting an indentation level of at least 4) in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 32
+[14-Mar-2024 05:16:22 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:16:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:16:36 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:16:36 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:19:10 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:19:10 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:19:13 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:19:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:20:04 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:20:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:41:18 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 05:41:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[14-Mar-2024 06:24:19 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php on line 45
+[14-Mar-2024 06:24:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php:9
+Stack trace:
+#0 /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php(26): require()
+#1 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 9
+[14-Mar-2024 10:27:24 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php on line 45
+[14-Mar-2024 10:27:24 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php:9
+Stack trace:
+#0 /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php(26): require()
+#1 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 9
+[16-Mar-2024 09:18:42 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/PHPMailerAutoload.php on line 45
+[16-Mar-2024 09:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php:9
+Stack trace:
+#0 /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php(26): require()
+#1 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 9
+[16-Mar-2024 09:19:13 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php:9
+Stack trace:
+#0 /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php(26): require()
+#1 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 9
+[19-Mar-2024 05:16:23 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[19-Mar-2024 05:16:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[27-Mar-2024 05:32:38 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[27-Mar-2024 05:32:38 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[27-Mar-2024 06:24:05 UTC] PHP Warning:  require(/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[27-Mar-2024 06:24:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/digitsar/public_html/digitanzo.lk/jss/reset/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/mailer.php on line 7
+[27-Mar-2024 06:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:43:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:47:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:57:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:57:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 09:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[27-Mar-2024 10:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[30-Mar-2024 08:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[30-Mar-2024 08:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 58
+[30-Mar-2024 09:02:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 56
+[30-Mar-2024 09:03:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 58
+[30-Mar-2024 09:04:02 UTC] PHP Parse error:  syntax error, unexpected '$stmt' (T_VARIABLE) in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 59
+[30-Mar-2024 09:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 62
+[30-Mar-2024 10:12:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/process-reset-password.php on line 59
+[01-Apr-2024 09:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 44
+[01-Apr-2024 09:20:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function message() in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/digitsar/public_html/digitanzo.lk/jss/reset/send-password-reset.php on line 44
+[01-Apr-2024 09:24:56 UTC] PHP Warning:  include(common/config.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:56 UTC] PHP Warning:  include(common/config.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:56 UTC] PHP Warning:  include(): Failed opening 'common/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:57 UTC] PHP Warning:  include(common/config.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:57 UTC] PHP Warning:  include(common/config.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:57 UTC] PHP Warning:  include(): Failed opening 'common/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:59 UTC] PHP Warning:  include(common/config.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:59 UTC] PHP Warning:  include(common/config.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[01-Apr-2024 09:24:59 UTC] PHP Warning:  include(): Failed opening 'common/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/chemail.php on line 3
+[10-Apr-2024 05:12:09 UTC] PHP Warning:  include_once(server.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/reset-password.php on line 39
+[10-Apr-2024 05:12:09 UTC] PHP Warning:  include_once(): Failed opening 'server.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/reset-password.php on line 39
+[10-Apr-2024 05:12:11 UTC] PHP Warning:  include_once(server.php): failed to open stream: No such file or directory in /home/digitsar/public_html/digitanzo.lk/jss/reset/reset-password.php on line 39
+[10-Apr-2024 05:12:11 UTC] PHP Warning:  include_once(): Failed opening 'server.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/digitsar/public_html/digitanzo.lk/jss/reset/reset-password.php on line 39
