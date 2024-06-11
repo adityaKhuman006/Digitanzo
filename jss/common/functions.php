@@ -116,6 +116,10 @@ if (!function_exists('latest_conversion_rates')) {
 if (!function_exists('convert_currency')) {
     function convert_currency($gold_in_gram = 0, $base = 'USD', $currencies = 'USD,LKR,INR,GBP') {
 
+        $LKRtoUsd = 0.0033;
+        $LKRtoInr = 0.28;
+        $LKRtoGbp = 0.0026;
+
         $rates = latest_conversion_rates($base, $currencies);
         global $db;
         $selq= "SELECT * FROM tb_admin_config WHERE config_name = 'commission'";
@@ -133,6 +137,10 @@ if (!function_exists('convert_currency')) {
         $deductAmountFetch = mysqli_fetch_assoc($deductAmountResult);
 
         $rates_of_gold['LKR'] = $rates_of_gold['LKR'] - $deductAmountFetch['deduct_amount'];
+        $rates_of_gold['USD'] = $rates_of_gold['USD'] - ($deductAmountFetch['deduct_amount'] * $LKRtoUsd);
+        $rates_of_gold['INR'] = $rates_of_gold['INR'] - ($deductAmountFetch['deduct_amount'] * $LKRtoInr);
+        $rates_of_gold['GBP'] = $rates_of_gold['GBP'] - ($deductAmountFetch['deduct_amount'] * $LKRtoGbp);
+
         return $rates_of_gold;
     }
 }

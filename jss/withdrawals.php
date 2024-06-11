@@ -8,7 +8,7 @@ include "common/header.php";?>
                         $sel_rec_tem = "SELECT * FROM tb_user WHERE user_name = '$user_name'";
                         $selquery = mysqli_query($db, $sel_rec_tem);
                         $row = mysqli_fetch_assoc($selquery);
-                    ?> 
+                    ?>
   <!-- Main Sidebar Container -->
   <?php
   include('common/sidebar.php'); ?>
@@ -102,14 +102,14 @@ WITHDRAWAL
                                     <label for="tds_fee">YOUR GOLD</label>
                                  <select class="form-control" id="cur_bal" placeholder="Enter the Amount" 
                                     name="cur_bal"  required="required" min="0" >
-  <option selected>SELECT</option>
-  <option>1</option>
-  <option>8</option>
-  <option>40</option>
-  <option>80</option>
-  <option>120</option>
-  <option>180</option>
-  <option>371</option>
+                                      <option selected>SELECT</option>
+                                      <option>1</option>
+                                      <option>8</option>
+                                      <option>40</option>
+                                      <option>80</option>
+                                      <option>120</option>
+                                      <option>180</option>
+                                      <option>371</option>
 </select>
 
                                    <!-- <input style="background-color: #fff;" min="0"  class="form-control" id="cur_bal" placeholder="Enter the Amount" 
@@ -219,7 +219,6 @@ $(document).ready(function() {
       header('location: withdrawals.php');
     }
      else {
-    
   }
   })
 });
