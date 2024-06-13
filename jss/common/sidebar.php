@@ -46,24 +46,6 @@ $checkUserIdentityFetch = mysqli_fetch_assoc($checkUserIdentityResult);
         <div class="info">
           <a href="dashboard" class="d-block"><?php echo $_SESSION['username'] ?></a>
         </div>
-          <div class="info">
-              <?php
-              if(isset($checkUserIdentityFetch['status']) && $checkUserIdentityFetch['status'] != null){
-                if($checkUserIdentityFetch['status'] ==  1){
-                    echo '<i style="font-size: 35px" class="fas fa-check-circle text-success"></i>';
-                }else if($checkUserIdentityFetch['status'] ==  3){
-                    echo '<img class="img-fluid" src="../assets/dist/img/wrong.png">';
-                }else if($checkUserIdentityFetch['status'] ==  2){
-                    echo '<i style="font-size: 35px" class="fas fa-clock text-primary"></i>';
-                }else{
-                    echo '<img class="img-fluid" src="../assets/dist/img/wrong.png">';
-                }
-              }else{
-                  echo '<img class="img-fluid" src="../assets/dist/img/wrong.png">';
-              }
-              ?>
-
-        </div>
       </div>
       <!-- Sidebar Menu -->
       <nav class="mt-2">
@@ -88,13 +70,32 @@ $checkUserIdentityFetch = mysqli_fetch_assoc($checkUserIdentityResult);
                 </a>
             </li>
             <?php } else {?>
-            <li class="nav-item has-treeview">
+            <li class="nav-item has-treeview d-flex align-items-center justify-content-lg-between">
                 <a href="identicard.php" class="nav-link <?= ($currentpage=='identicard') ? 'active':''; ?>">
                     <i class="nav-icon fas fa-solid fa-address-card"></i>
                     <p>
                         Identicard
                     </p>
                 </a>
+                <div class="info w-25">
+                    <?php
+                    if(isset($checkUserIdentityFetch['status']) && $checkUserIdentityFetch['status'] != null){
+                        if($checkUserIdentityFetch['status'] ==  1){
+                            echo '<i style="font-size: 35px" class="fas fa-check-circle text-success"></i>';
+                        }else if($checkUserIdentityFetch['status'] ==  3){
+                            echo '<img class="img-fluid" src="../assets/dist/img/wrong.png" style="width: 38%;">'; //43
+                        }else if($checkUserIdentityFetch['status'] ==  2){
+                            echo '<i style="font-size: 35px" class="fas fa-clock text-primary"></i>';
+                        }else{
+                            echo '<img class="img-fluid" src="../assets/dist/img/wrong.png">';
+                        }
+                    }else{
+                        echo '<img class="img-fluid" src="../assets/dist/img/wrong.png">';
+                    }
+                    ?>
+
+                </div>
+
             </li>
             <?php } ?>
 

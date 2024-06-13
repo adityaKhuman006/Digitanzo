@@ -19,7 +19,7 @@
                     </div>
                     <div class="col">
                         <div class="form-group">
-                            <input type="text" class="form-control" name="user_name" value="<?=format_amount($totalGold['netGoldBalance'])?>" readonly></span>
+                            <input type="text" class="form-control" name="user_name" value="<?=format_amount($row['user_savings'])?>" readonly></span>
                         </div>
                     </div>
                 </div>

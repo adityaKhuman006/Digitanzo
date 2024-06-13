@@ -884,7 +884,7 @@ if (isset($_POST['reg_user'])) {
 
             }
 
-            header("Refresh: 1; url=conguratulations.php");
+            header("Location: conguratulations.php");
 
         } else {
             //echo("There are no registered recommender");
