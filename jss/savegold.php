@@ -22,11 +22,13 @@ WHERE
     user_id = {$row['user_no']}";
 $gRes = mysqli_query($db, $totalGoldQuery);
 $totalGold = mysqli_fetch_assoc($gRes);
-/*echo $totalGold['netGoldBalance'];
-die();*/
 $selq = "SELECT * FROM tb_user_gold_transation WHERE is_approved=0 AND action='withdrawl' AND user_id = {$row['user_no']}";
 $wres = mysqli_query($db, $selq);
 $wdrqno = mysqli_num_rows($wres);
+
+$chekPendingReqSql = "SELECT * FROM tb_user_gold_transation WHERE is_approved=0 AND action='sell' AND user_id = {$row['user_no']}";
+$chekPendingReqRes = mysqli_query($db,$chekPendingReqSql);
+$chekPendingReqFetch = mysqli_fetch_assoc($chekPendingReqRes);
 ?>
     <!-- Main Sidebar Container -->
 <?php include('common/sidebar.php'); ?>
@@ -231,7 +233,7 @@ $wdrqno = mysqli_num_rows($wres);
                             </button>
                         </div>
                         <div class="col-3 auto center">
-                            <button class="btn btn-primary btn-primary chekIdentity" data-toggle="modal"
+                            <button class="btn btn-primary btn-primary chekIdentity" <?= ($chekPendingReqFetch) ? 'disabled' : '' ?>  data-toggle="modal"
                                     data-target="#sellModal">
                                 Sell Gold
                             </button>

@@ -81,8 +81,6 @@ WHERE
     if (!$result) {
         echo json_encode(['success' => 0]);
     } else {
-        $sql = "UPDATE tb_user set user_savings = user_savings + {$post['sell_amount']} where user_no = {$user['user_no']}";
-        mysqli_query($db, $sql);
         if (!$result) {
 //            echo "Error: " . mysqli_error($db);
             echo json_encode(['success' => 0]);
@@ -155,8 +153,13 @@ if (isset($_GET["gwa"])) {
         die;
     }
 
-    $selq = "SELECT * FROM tb_user_gold_transation WHERE md5(id) = '{$_GET["gwa"]}' and is_approved=0 AND action='{$_GET['action']}'";
+    $selq = "SELECT * FROM tb_user_gold_transation WHERE md5(id) = '{$_GET["gwa"]}' and is_approved = 0 AND action='{$_GET['action']}'";
     $res = mysqli_query($db, $selq);
+
+    $buyingAmountFetch = mysqli_fetch_assoc($res);
+
+    $sql = "UPDATE tb_user set user_savings = user_savings + {$buyingAmountFetch['buying_amount']} where user_no = {$_GET['user_no']}";
+    mysqli_query($db, $sql);
 
     if (mysqli_num_rows($res) == 1) {
         $selq = "UPDATE tb_user_gold_transation SET is_approved=1 WHERE md5(id) = '{$_GET["gwa"]}'";

@@ -768,7 +768,7 @@ p.a{
                                         echo "<td>" . $row['date'] . "</td>";
                                          echo "<td>  
                                         <button class='btnv btn-info btn-sm' onclick=\"showUserModal('{$row['user_name']}','{$row['user_nic']}','{$row['email']}','{$row['user_phone']}','{$row['user_city']}','{$row['user_savings']}','{$row['netGoldBalance']}')\">View</button> 
-                                        <a href='handlegoldaction.php?gwa=". md5($row['id'])."&action=sell' class='btna btn-info btn-sm'>Approve</a>  
+                                        <a href='handlegoldaction.php?gwa=". md5($row['id'])."&action=sell&sellPrice=".$row['user_savings']."&user_no=".$row['user_no']."' class='btna btn-info btn-sm'>Approve</a>  
                                         <a href='handlegoldaction.php?gwc=". md5($row['id'])."&action=sell' class='btnc btn-dangerbtn-sm '>Cancel</a>  
                                         </td>"
                                          ;
